@@ -1,0 +1,80 @@
+/*header*/
+.bg-nav{
+	background-color: pink;
+}
+
+.titulo{
+	line-height: 55px;
+	margin-left: 5px;
+}
+
+.logo{
+	margin-left: 15px;
+}
+
+/*footer*/
+
+footer{
+	background-color: pink;	
+	text-align: center;
+	height: 50px;
+
+}
+
+.text_footer{
+	color: #ffffff;
+	font-size: 11px;
+
+}
+
+.link {
+	text-decoration: none;
+	color: #ED6FBF;
+}
+
+/*body*/
+.main {
+	background-color: #DD61A1;
+	color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	height: 619px;
+}
+
+/*body*/
+.boton {
+	background-color: pink;
+	color: #ffffff;
+}
+
+.errLabel{
+	color: pink;
+}
+
+/*respuesta*/
+.ribbon {
+    width: 30px; 
+    height: 30px; 
+    background: pink;
+    display: block;
+    margin: 0px auto;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.dadoR{
+	text-align: center;
+	line-height: 30px;
+}
+
+.square{
+	width: 30px; 
+    height: 30px; 
+    background: #900C3F;
+    display: block;
+    margin: 0px auto;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;	
+}
